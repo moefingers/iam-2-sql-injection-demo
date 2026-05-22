@@ -1,8 +1,8 @@
 <!-- unlv-museum-banner-start -->
 <a href="https://unlv-museum.infinite-syndicate.com/sql-injection-demo" target="_blank" rel="noopener">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://unlv-museum.infinite-syndicate.com/github-banners/sql-injection-demo?theme=dark&v=e74ade5f25">
-    <img src="https://unlv-museum.infinite-syndicate.com/github-banners/sql-injection-demo?theme=light&v=e74ade5f25" alt="Educational demo from UNLV's Information Assurance coursework — a login form runs both a vulnerable (string-interpolated) and a safe (parameterized) query against an in-memory SQLite user table, so students see firsthand that `' OR '1'='1' --` bypasses one and is neutralized by the other." width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://unlv-museum.infinite-syndicate.com/github-banners/sql-injection-demo?theme=dark&v=9353f2f3d9">
+    <img src="https://unlv-museum.infinite-syndicate.com/github-banners/sql-injection-demo?theme=light&v=9353f2f3d9" alt="Educational demo from UNLV's Information Assurance coursework — a login form runs both a vulnerable (string-interpolated) and a safe (parameterized) query against an in-memory SQLite user table, so students see firsthand that `' OR '1'='1' --` bypasses one and is neutralized by the other." width="100%">
   </picture>
 </a>
 
