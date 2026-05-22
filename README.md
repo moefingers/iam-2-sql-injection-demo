@@ -6,7 +6,7 @@
   </picture>
 </a>
 
-> This `museum-ready/original` branch is the host-compatible build of the [`original` branch](https://github.com/moefingers/iam-2-sql-injection-demo/tree/original) — [audit the diff](https://github.com/moefingers/iam-2-sql-injection-demo/compare/original...museum-ready%2Foriginal): hosting fixes only (dead URLs, Node LTS floor, pnpm), behavior byte-for-byte. [Open in museum →](https://unlv-museum.infinite-syndicate.com/sql-injection-demo)
+> This `museum-ready/original` branch is the host-compatible build of the [`original` branch](https://github.com/moefingers/iam-2-sql-injection-demo/tree/original) — [audit the diff](https://github.com/moefingers/iam-2-sql-injection-demo/compare/original...museum-ready%2Foriginal): hosting fixes only (dead URLs, Node LTS floor, pnpm), behavior byte-for-byte. This project has been [**enhanced**](https://unlv-museum.infinite-syndicate.com/sql-injection-demo/enhanced)!
 <!-- unlv-museum-banner-end -->
 
 # iam-2-sql-injection-demo
