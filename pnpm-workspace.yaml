@@ -1,0 +1,13 @@
+# pnpm settings for this repo (pnpm >= 10 reads them from here, not from
+# package.json). Also marks this directory as its own pnpm root, so pnpm
+# doesn't walk up into the museum's workspace when this repo is a submodule.
+#
+# sqlite3's install script fetches or compiles the native binding the
+# original Express server (app.js) needs. It stays off: the museum serves
+# only index.html and style.css from this repo and reimplements the server,
+# and on current Node the script fails anyway (sqlite3 5.1.7's prebuild
+# lookup can't read its N-API version under modern npm/pnpm and falls back
+# to a source build that needs C++ build tools). To run app.js locally, set
+# sqlite3: true and install with a Node/toolchain that can build it.
+allowBuilds:
+  sqlite3: false
